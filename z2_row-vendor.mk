@@ -637,7 +637,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libthermalclient \
-    libtime_genoff \
     datastatusnotification \
     fastdormancy \
     QtiTelephonyService \
