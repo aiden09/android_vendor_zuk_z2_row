@@ -638,7 +638,6 @@ PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libthermalclient \
     datastatusnotification \
-    fastdormancy \
     QtiTelephonyService \
     shutdownlistener \
     TimeService \
